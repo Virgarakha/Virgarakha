@@ -1,7 +1,7 @@
 - 👋 Hi, I’m virgarakha
 - 👀 I’m interested in the world of programming
 - 🌱 Now I am working towards becoming a full stack developer this year.
-- 📫 contact me via Instagram @bakoltugas.shop
+- 📫 contact me via Instagram @aradixtech
 - ⚡ Fun fact: I'm a programmer trying to try 😂
 
 ### Connect with me:
